@@ -1,0 +1,5 @@
+benchmarks/
+obj/
+HW4_N26141703
+*.o
+*.out
